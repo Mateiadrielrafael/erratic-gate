@@ -2897,3 +2897,5 @@ div.component-container {
 
 .mdc-list-item--activated {
   background: orange; }
+  .mdc-list-item--activated * {
+    color: white; }
